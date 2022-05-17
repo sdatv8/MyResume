@@ -1,0 +1,36 @@
+body {
+  background-color: #F5F7FA;
+  font-family: 'Montserrat', sans-serif;
+}
+.main-conteiner{
+  display: flex;
+  flex-direction: row-reverse;     /*расположить блоки по горизонитали column  в ряд*/
+  width: 1200px;
+  background-color: #fff;
+  margin: 40px auto;               /* внешний отсутп */
+}
+
+.sidebar-section{
+  background-color: #1E2939;
+}
+.main-content-secttion{
+
+}
+
+
+.about-me-professional{
+
+  font-size: 14px;
+}
+
+.about-me-section{
+
+}
+
+.my-project-section{
+
+}
+
+.my-work-experiance{
+
+}
